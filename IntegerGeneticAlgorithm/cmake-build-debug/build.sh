@@ -1,0 +1,1 @@
+g++ -o IntegerGeneticAlgorithm ../main.cpp

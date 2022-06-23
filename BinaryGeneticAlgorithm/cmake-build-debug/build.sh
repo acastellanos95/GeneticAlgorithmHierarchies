@@ -1,0 +1,1 @@
+g++ -o BinaryGeneticAlgorithm ../main.cpp
